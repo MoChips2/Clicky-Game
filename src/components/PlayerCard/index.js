@@ -3,12 +3,10 @@ import "./style.css";
 
 function PlayerCard(props) {
   return (
-    <div className="container">
-      <div className="images">
-        <img alt={props.name} src={props.image} className="img-thumbnail float-left" />
-      </div>
-    </div>
+          <div className="images">
+            <img alt={props.name} src={props.image} className="img-thumbnail img-fluid float-center" />
+          </div>
   )
 }
 
-export default PlayerCard;
+export default PlayerCard; 
