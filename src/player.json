@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Alan Page",
+    "image": "/images/alan-page.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Barry Sanders",
+    "image": "/images/barry-sanders.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dan Marino",
+    "image": "/images/dan-marino.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Deion Sanders",
+    "image": "/images/deion-sanders.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dick Butkus",
+    "image": "/images/dick-butkus.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Earl Campbell",
+    "image": "/images/earl-campbell.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jerry Rice",
+    "image": "/images/jerry-rice.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Jim Brown",
+    "image": "/images/jim-brown.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Joe Montana",
+    "image": "/images/joe-montana.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Joe Namath",
+    "image": "/images/joe-namath.jpg"
+  },
+  {
+    "id": 11,
+    "name": "John Elway",
+    "image": "/images/john-elway.jpg"
+  },
+  {
+    "id": 12,
+    "name": "John Randle",
+    "image": "/images/john-randle.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Johnny Unitas",
+    "image": "/images/johnny-unitas.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Lawrence Taylor",
+    "image": "/images/lawrence-taylor.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Randall McDaniel",
+    "image": "/images/randall-mcdaniel.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Walter Payton",
+    "image": "/images/walter-payton.jpg"
+  }
+]
