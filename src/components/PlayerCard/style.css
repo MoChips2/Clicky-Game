@@ -6,3 +6,9 @@
     overflow: hidden;
     padding: 10px 5px 10px 5px;
  }
+
+ .images:hover {
+   -webkit-transform: scale(1.1);
+   -ms-transform: scale(1.1);
+   transform: scale(1.1);
+ }

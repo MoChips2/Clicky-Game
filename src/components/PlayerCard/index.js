@@ -3,10 +3,10 @@ import "./style.css";
 
 function PlayerCard(props) {
   return (
-          <div className="images">
-            <img alt={props.name} src={props.image} className="img-thumbnail img-fluid float-center" />
-          </div>
+    <div className="images" onClick={() => props.clickedPlayer(props.id)}>
+      <img alt={props.name} src={props.image} className="img-thumbnail img-fluid float-center point"/>
+    </div>
   )
 }
 
-export default PlayerCard; 
+export default PlayerCard;
